@@ -1,0 +1,11 @@
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\bin\Release\EnrollmentBot.exe
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\bin\Release\EnrollmentBot.pdb
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\bin\Release\EnrollmentBot.xml
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\EnrollmentBot.Form1.resources
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\EnrollmentBot.Resources.resources
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\EnrollmentBot.exe
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\EnrollmentBot.xml
+C:\Users\ishaan\AppData\Local\Temporary Projects\EnrollmentBot\obj\x86\Release\EnrollmentBot.pdb
